@@ -1,5 +1,4 @@
 # TETRIS
 TETRIS?
-YES
-$TTRS
+
 
